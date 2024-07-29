@@ -1,0 +1,39 @@
+{
+	"files": [
+		{
+			"path": "index.html",
+			"bookmarks": [
+				{
+					"line": 107,
+					"column": 0,
+					"label": "logo"
+				},
+				{
+					"line": 108,
+					"column": 0,
+					"label": "Trang chủ"
+				},
+				{
+					"line": 110,
+					"column": 0,
+					"label": "Giới thiệu"
+				},
+				{
+					"line": 116,
+					"column": 0,
+					"label": "Sản phẩm"
+				},
+				{
+					"line": 192,
+					"column": 0,
+					"label": "Slider (chưa có ảnh)"
+				},
+				{
+					"line": 291,
+					"column": 0,
+					"label": "Video Cover (chưa có)"
+				}
+			]
+		}
+	]
+}

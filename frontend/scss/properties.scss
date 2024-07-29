@@ -1,0 +1,19 @@
+
+$color_page:        #0C55A4;
+$color_page_1:   		#145faa;
+$color_page_2:   		#75bce7;
+$color_page_3:   		#008751;
+$color_page_bg:   	#f5f6fa;
+$color_text:        #000;
+$color_a:          	$color_page;
+$color_a_hover:     $color_page_1;
+$color_menu:        #333;
+$color_menu_hover:  $color_page_1;
+$color_menu_active: $color_page_1;
+$color_heading: 		$color_page_1;
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+$font_roboto: 'Roboto', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+$font_quicksand: 'Quicksand', sans-serif;
